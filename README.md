@@ -7,14 +7,15 @@
 
 ---
 
-## 🧰 Tech Stack Used
+## 🧰 Tech Stack
 
-- 🐍 Python (Pandas, NumPy)
-- 📊 Matplotlib, Seaborn, mplfinance, Plotly (static screenshots)
-- 📗 Jupyter Notebook
-- 🧠 ta (Technical Analysis Indicators)
-- 🧾 Markdown for documentation
-- 💾 Git/GitHub for version control
+| Category      | Tools Used                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| 🐍 Language    | ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)        |
+| 📊 Libraries  | `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `mplfinance`, `ta`   |
+| 📗 Notebook   | `Jupyter Notebook`                                                          |
+| 🧾 Reporting  | `Markdown`                                                                  |
+| 💾 Versioning | `Git`, `GitHub`                                                             |
 
 
 
@@ -52,5 +53,5 @@
 
 ## 🧑‍💼 Author
 
-*Your Name*  
+*Mukut May Dutta*  
 _Data Analyst_ | [GitHub](https://github.com/mukut45) | [LinkedIn](https://linkedin.com/in/mukutdutta/)
