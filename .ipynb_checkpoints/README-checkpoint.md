@@ -9,13 +9,14 @@
 
 ## 🧰 Tech Stack
 
-| Category      | Tools Used                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| 🐍 Language    | ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)        |
-| 📊 Libraries  | `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `mplfinance`, `ta`   |
-| 📗 Notebook   | `Jupyter Notebook`                                                          |
-| 🧾 Reporting  | `Markdown`                                                                  |
-| 💾 Versioning | `Git`, `GitHub`                                                             |
+| Category      | Tools Used                                                                                                                                           |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🐍 Language    | ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)                                                                                   |
+| 📊 Libraries  | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas) <br> ![NumPy](https://img.shields.io/badge/NumPy-Array-blue?logo=numpy) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-orange?logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-Stats%20Graphs-lightblue) <br> ![Plotly](https://img.shields.io/badge/Plotly-Interactive-darkgreen?logo=plotly) <br> ![mplfinance](https://img.shields.io/badge/mplfinance-Candlestick-purple) <br> ![ta](https://img.shields.io/badge/ta%20lib-Indicators-informational) |
+| 📗 Notebook   | ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)                                                                         |
+| 🧾 Reporting  | ![Markdown](https://img.shields.io/badge/Markdown-Documentation-lightgrey?logo=markdown)                                                             |
+| 💾 Versioning | ![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git) <br> ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)    |
+                                                             |
 
 
 
